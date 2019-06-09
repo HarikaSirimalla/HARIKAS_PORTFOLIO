@@ -1,0 +1,1 @@
+Hi there, I'm Harika! I love computers and really enjoy writing code. I'm currently looking for opportunities in a challenging environment. I enjoy breaking complex technical concepts and explaining them through illustrations. Apart from computers, I really enjoy dancing, traveling, walking, music.
