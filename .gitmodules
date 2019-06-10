@@ -5,3 +5,11 @@
 	path = public
 	url = https://github.com/HarikaSirimalla/HarikaSirimalla.github.io.git
 	branch = master
+[submodule "HARIKAS_PORTFOLIO"]
+	path = HARIKAS_PORTFOLIO
+	url = git@github.com:HarikaSirimalla/HARIKAS_PORTFOLIO.git
+	branch = master
+[submodule "HarikaSirimalla.github.io"]
+	path = HarikaSirimalla.github.io
+	url = git@github.com:HarikaSirimalla/HarikaSirimalla.github.io.git
+	branch = master
