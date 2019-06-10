@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://harikasirimalla.github.io/"
 title   = "✨Harika Sirimalla✨"
 
 DefaultContentLanguage = "en"
