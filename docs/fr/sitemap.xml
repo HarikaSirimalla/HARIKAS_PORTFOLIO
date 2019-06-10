@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://harikasirimalla.github.io/fr/index.html</loc>
+    <loc>https://harikasirimalla.github.io/HARIKAS_PORTFOLIO/fr/index.html</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://harikasirimalla.github.io/index.html"
+                href="https://harikasirimalla.github.io/HARIKAS_PORTFOLIO/index.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://harikasirimalla.github.io/fr/index.html"
+                href="https://harikasirimalla.github.io/HARIKAS_PORTFOLIO/fr/index.html"
                 />
   </url>
   
   <url>
-    <loc>https://harikasirimalla.github.io/fr/tags/</loc>
+    <loc>https://harikasirimalla.github.io/HARIKAS_PORTFOLIO/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://harikasirimalla.github.io/tags/"
+                href="https://harikasirimalla.github.io/HARIKAS_PORTFOLIO/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://harikasirimalla.github.io/fr/tags/"
+                href="https://harikasirimalla.github.io/HARIKAS_PORTFOLIO/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://harikasirimalla.github.io/fr/</loc>
+    <loc>https://harikasirimalla.github.io/HARIKAS_PORTFOLIO/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://harikasirimalla.github.io/"
+                href="https://harikasirimalla.github.io/HARIKAS_PORTFOLIO/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://harikasirimalla.github.io/fr/"
+                href="https://harikasirimalla.github.io/HARIKAS_PORTFOLIO/fr/"
                 />
   </url>
   
